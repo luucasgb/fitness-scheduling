@@ -2,6 +2,8 @@
 
 Repo for a fitness scheduling automation app
 
-#ToDo
+# ToDo
+
 Refactor classes to make them more monolithic
+
 Rebase code to C# (maybe?)
