@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Visual Studio Folders
+.vs/
+
+# C# build folders
+bin/
+obj/
+
 # Distribution / packaging
 .Python
 build/
